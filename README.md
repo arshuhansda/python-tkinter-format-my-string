@@ -1,6 +1,7 @@
 # python-tkinter-format-my-string-utility
 
-This is a small utility app which I created to format my string, I like to save file with spiral tap case and because of this idiosyncarcy, I created a app for myself, not to go and edit. Input any string, it will clean of special characters and get the spiral tap case or snake case string. Only thing to take care is, there must be a space betwwen words.
+This is a small utility app which I created to format my string, I like to save files with spiral tap case and because of this idiosyncarcy, I created an app for myself, not to go and edit. each avlue which I want.
+Input any string, it will clean all special characters and get the spiral tap case or snake case string. Only thing to take care is, there must be a space betwwen words.
 
 1. .py file contains the code.
 2. .exe file is the application which can be directly downloaded and used without installing python.
