@@ -11,6 +11,6 @@ This is a small utility app which I created to format my string, I like to save 
 
 ![image](https://user-images.githubusercontent.com/19357134/120227415-b8559000-c266-11eb-8e61-8db269569ebe.png)
 
-Whenever you enter the string, click on Get Spiral Tap Case or Get Snake and then Click on "COPY". Clicking on "COPY" without clicking on either button does not populate with what you want.
+Whenever you enter the string, click on Get Spiral Tap Case or Get Snake Case and then Click on "COPY". Clicking on "COPY" without clicking on either button does not populate with what you want.
 
 Thanks!
